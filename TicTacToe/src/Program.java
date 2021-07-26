@@ -8,13 +8,6 @@ import java.util.Scanner;
 
 public class Program {
   public static void main(String[] args) {
-    // TODO: Fix formatting of printBoard's output for boards with length greater than 3
-    // TODO: Once someone has won, show the players how the player won (block out the slots that made a player won using the "☀️" character)
-    // TODO: Welcome the users with their names and call them by their names instead of "player 1" and "player 2"
-    // TODO: Use servers to create games and match players based on ip (? not sure how to do this yet)
-    // TODO: Implement GUI
-    // TODO: Allow user to choose what symbol they want to use in the game
-    // TODO: Create option to view instructions on how to play tic tac toe and use this program
     System.out.println("**IMPORTANT NOTE**: If the console's dimensions are changed, then the "
     		         + "game may not be formatted properly. For the best experience, please maximize "
     		         + "the width of the console. Thank you and enjoy!");
